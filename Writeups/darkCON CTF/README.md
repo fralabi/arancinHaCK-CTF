@@ -10,9 +10,10 @@ Flag Format: darkCON{1.11,1.11,01-02}
 Hint: Don't brute as maybe you could miss something on location , Find the time correctly and location 
 ```
 
-#### Svolgimento
-Ho trovato sul web che la tratta MAS-CBE è una tratta ferroviaria in India -> [LINK](https://etrain.info/train/Mas-Cbe-Sf-Exp-02673/schedule), <br> 
-vista la foto allegata nella challenge che mostra una foto con tre particolari: <br>
+### Svolgimento
+Ho trovato sul web che la tratta MAS-CBE è una tratta ferroviaria in India -> [LINK](https://etrain.info/train/Mas-Cbe-Sf-Exp-02673/schedule)<br> 
+<img src="https://github.com/fralabi/v1770r14n1-CTF/blob/main/Writeups/darkCON%20CTF/chall.jpg" width="500px" height="500px"> <br>
+Vista la foto allegata nella challenge che mostra una foto con tre particolari: <br>
 * Un ponte che attraversa un fiume 
 * A sinistra un tempio mentre ancora 
 * In fondo più a sinistra un impianto industriale con un nastro o scivolo in blu. 
