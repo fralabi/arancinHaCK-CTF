@@ -87,8 +87,8 @@ Se vuoi entrare a far parte del nostro team inviaci la richiesta su [CTFtime](ht
 ### Tools 
 Troverai qui molti tool utili per risolvere molte sfide di CTF, scegli la categoria e trova il tool che più ti interessa.
 
-Categories | [Crypto](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Crypto) | [Reverse](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Reverse) | [Web](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Web) | [OSINT](https://github.com/fralabi/v1770r14n1-CTF/tree/main/OSINT)<br> 
---- | --- | --- | --- | --- |
+Categories | [Crypto](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Crypto) | [Reverse](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Reverse) | [Web](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Web) | [OSINT](https://github.com/fralabi/v1770r14n1-CTF/tree/main/OSINT) | [Forensics](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Forensics)<br>
+--- | --- | --- | --- | --- | --- |
 
 
 ### Writeups
