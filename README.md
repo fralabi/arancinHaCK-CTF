@@ -93,4 +93,9 @@ Categories | [Crypto](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Crypto
 
 ### Writeups
 Guarda i nostri [writeups](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Writeups) delle nostre gare.
+
+### Siti per allenarsi
+- [Hack The Box](https://www.hackthebox.eu/)
+- [TryHackMe](https://tryhackme.com/)
+- [CryptoHack](https://cryptohack.org/)
  
