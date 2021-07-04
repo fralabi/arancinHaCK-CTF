@@ -1,4 +1,4 @@
-<h1> Crypto </h1>
+# Crypto 
 
 - [Cyberchef](https://gchq.github.io/CyberChef)<br>
 CyberChef encourages both technical and non-technical people to explore data formats, encryption and compression.<br>
@@ -25,3 +25,7 @@ This online tool breaks Vigenère ciphers without knowing the key. Besides the c
 This XOR deciphering tool will analyse the data to find n-grams and will be able to guess the key length.
 Then based on knowledge of most frequent char and using frequency analysis it will be able to guess the key used to encrypt the data. <br>
 <br>
+
+## LINKS
+
+- [How to solve RSA Crypto challenges](https://www.amazingtricks.in/how-to-solve-rsa-crypto-challenges-in-ctfs/)
