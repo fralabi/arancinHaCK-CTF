@@ -29,3 +29,4 @@ Then based on knowledge of most frequent char and using frequency analysis it wi
 ## LINKS
 
 - [How to solve RSA Crypto challenges](https://www.amazingtricks.in/how-to-solve-rsa-crypto-challenges-in-ctfs/)
+- [Crypto for beginners](https://charcharbinks.com/post/ctf_crypto_for_beginners/)
