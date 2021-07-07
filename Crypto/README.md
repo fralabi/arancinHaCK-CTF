@@ -30,6 +30,7 @@ Then based on knowledge of most frequent char and using frequency analysis it wi
 
 - [How to solve RSA Crypto challenges](https://www.amazingtricks.in/how-to-solve-rsa-crypto-challenges-in-ctfs/)
 - [Crypto for beginners](https://charcharbinks.com/post/ctf_crypto_for_beginners/)
+- [Cryptography overview](https://ctf101.org/cryptography/overview/)
 
 ## VIDEO
 - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
