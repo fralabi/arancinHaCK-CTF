@@ -98,4 +98,7 @@ Guarda i nostri [writeups](https://github.com/fralabi/v1770r14n1-CTF/tree/main/W
 - [Hack The Box](https://www.hackthebox.eu/)
 - [TryHackMe](https://tryhackme.com/)
 - [CryptoHack](https://cryptohack.org/)
+
+### Siti per imparare
+- [The ramblings of a cybersecurity hobbyist](https://www.bootlesshacker.com/)
  
