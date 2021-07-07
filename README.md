@@ -80,6 +80,10 @@ but you can't stop us all... after all, we're all alike.
                                +++The Mentor+++
 _______________________________________________________________________________
 ```
+### Cosa sono le CTF
+- [1](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/welcome.html)
+- [2](https://startacybercareer.com/what-is-a-cybersecurity-capture-the-flag/)
+- [3](https://www.meusec.com/ctf/capture-the-flags-in-cybersecurity/)
 
 ### Team
 Se vuoi entrare a far parte del nostro team inviaci la richiesta su [CTFtime](https://ctftime.org/team/140539).
@@ -99,7 +103,9 @@ Guarda i nostri [writeups](https://github.com/fralabi/v1770r14n1-CTF/tree/main/W
 - [TryHackMe](https://tryhackme.com/)
 - [CryptoHack](https://cryptohack.org/)
 - [CryptoPals](https://cryptopals.com/)
+- [Root Me](https://www.root-me.org/?lang=en)
 
 ### Siti per imparare
 - [The ramblings of a cybersecurity hobbyist](https://www.bootlesshacker.com/)
+- [ZenHack learning](https://zenhack.it/learning)
  
