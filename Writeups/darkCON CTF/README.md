@@ -15,7 +15,7 @@ Ho trovato sul web che la tratta MAS-CBE è una tratta ferroviaria in India -> [
 <img src="https://github.com/fralabi/v1770r14n1-CTF/blob/main/Writeups/darkCON%20CTF/chall.jpg" width="500px" height="500px"> <br>
 Vista la foto allegata nella challenge che mostra una foto con tre particolari: <br>
 * Un ponte che attraversa un fiume 
-* A sinistra un tempio mentre ancora 
+* A sinistra un tempio
 * In fondo più a sinistra un impianto industriale con un nastro o scivolo in blu. 
  <br>
 Seguendo la tratta su Google Maps ho controllato tutti gli attraversamenti dei fiumi che corrispondessero alle mie supposizioni ed ho trovato il seguente luogo
