@@ -106,6 +106,7 @@ Guarda i nostri [writeups](https://github.com/fralabi/v1770r14n1-CTF/tree/main/W
 - [Root Me](https://www.root-me.org/?lang=en)
 - [247CTF](https://247ctf.com/)
 - [0x0539](https://0x0539.net/)
+- [PicoCTF](https://www.picoctf.org/)
 
 ### Siti per imparare
 - [The ramblings of a cybersecurity hobbyist](https://www.bootlesshacker.com/)
