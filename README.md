@@ -98,18 +98,5 @@ Categories | [Crypto](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Crypto
 ### Writeups
 Guarda i nostri [writeups](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Writeups) delle nostre gare.
 
-### Siti per allenarsi
-- [Hack The Box](https://www.hackthebox.eu/)
-- [TryHackMe](https://tryhackme.com/)
-- [CryptoHack](https://cryptohack.org/)
-- [CryptoPals](https://cryptopals.com/)
-- [Root Me](https://www.root-me.org/?lang=en)
-- [247CTF](https://247ctf.com/)
-- [0x0539](https://0x0539.net/)
-- [PicoCTF](https://www.picoctf.org/)
-- [PwnCollege](https://pwn.college/)
+______________________________________________________________________________________________________________________________________________________________
 
-### Siti per imparare
-- [The ramblings of a cybersecurity hobbyist](https://www.bootlesshacker.com/)
-- [ZenHack learning](https://zenhack.it/learning)
- 
