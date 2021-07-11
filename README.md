@@ -98,5 +98,9 @@ Categories | [Crypto](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Crypto
 ### Writeups
 Guarda i nostri [writeups](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Writeups) delle nostre gare.
 
+### Siti dove allenarsi
+
+Troverai [qui](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Sites) molti siti utili alla tua preparazione
+
 ______________________________________________________________________________________________________________________________________________________________
 
