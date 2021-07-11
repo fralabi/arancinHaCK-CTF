@@ -1,4 +1,4 @@
-# v1770r14n1
+# v1770r14n1 
  
 Il Manifesto Hacker (nell'originale inglese [The Hacker Manifesto](https://en.wikipedia.org/wiki/Hacker_Manifesto) o The Conscience of a Hacker) è un breve saggio scritto l'8 gennaio 1986 da Loyd Blankenship, un hacker che si faceva chiamare The Mentor. Fu scritto poco dopo l'arresto dell'autore, e pubblicato per la prima volta sulla Ezine Phrack.
 
@@ -81,9 +81,9 @@ but you can't stop us all... after all, we're all alike.
 _______________________________________________________________________________
 ```
 ### Cosa sono le CTF
-- [1](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/welcome.html)
-- [2](https://startacybercareer.com/what-is-a-cybersecurity-capture-the-flag/)
-- [3](https://www.meusec.com/ctf/capture-the-flags-in-cybersecurity/)
+- [Dont know where to begin?](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/welcome.html)
+- [What is Cybersecurity CTF ](https://startacybercareer.com/what-is-a-cybersecurity-capture-the-flag/)
+- [CTF in Cybersecurity](https://www.meusec.com/ctf/capture-the-flags-in-cybersecurity/)
 
 ### Team
 Se vuoi entrare a far parte del nostro team inviaci la richiesta su [CTFtime](https://ctftime.org/team/140539).
