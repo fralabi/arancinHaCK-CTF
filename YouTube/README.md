@@ -1,4 +1,4 @@
-# You Tube Channel
+# YouTube Channel
 
 <p align="center">
 <img src="https://www.famillesrurales.org/plouzevede/sites/multisite.famillesrurales.org._plouzevede/files/ckeditor/actualites/images/1504100047.jpg" height="200" weight="100" style="align:center">
