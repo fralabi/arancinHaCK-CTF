@@ -102,5 +102,9 @@ Guarda i nostri [writeups](https://github.com/fralabi/v1770r14n1-CTF/tree/main/W
 
 Troverai [qui](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Sites) molti siti utili alla tua preparazione
 
+### YouTube Channel
+
+Troverai [qui](https://github.com/fralabi/v1770r14n1-CTF/tree/main/YouTube) molti canali con le speigazioni delle tecniche di hacking
+
 ______________________________________________________________________________________________________________________________________________________________
 
