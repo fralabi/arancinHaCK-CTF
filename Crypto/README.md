@@ -24,6 +24,8 @@ This online tool breaks Vigenère ciphers without knowing the key. Besides the c
 - [XOR Cracker](https://wiremask.eu/tools/xor-cracker/)<br>
 This XOR deciphering tool will analyse the data to find n-grams and will be able to guess the key length.
 Then based on knowledge of most frequent char and using frequency analysis it will be able to guess the key used to encrypt the data. <br>
+- [RSACtfTool](https://github.com/Ganapati/RsaCtfTool) <br>
+RSA multi attacks tool : uncipher data from weak public key and try to recover private key Automatic selection of best attack for the given public key <br>
 <br>
 
 ## LINKS
