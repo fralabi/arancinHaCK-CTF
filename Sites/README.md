@@ -1,4 +1,9 @@
-
+# Siti per imparare
+- [The ramblings of a cybersecurity hobbyist](https://www.bootlesshacker.com/)
+- [ZenHack learning](https://zenhack.it/learning)
+- [CTFLearn](https://ctflearn.com/)
+______________________________________________________________________________________________________________________________________________________________
+ 
 # Siti per allenarsi
 
 <p align="center">
@@ -81,10 +86,4 @@ ________________________________________________________________________________
 - [RedStorm](https://www.redstorm.com/)
 - [CyberArm ID](https://www.cyberarmy.id/en)
 - [Yogosha](https://yogosha.com/)
-
-______________________________________________________________________________________________________________________________________________________________
-
-# Siti per imparare
-- [The ramblings of a cybersecurity hobbyist](https://www.bootlesshacker.com/)
-- [ZenHack learning](https://zenhack.it/learning)
  
