@@ -2,6 +2,8 @@
 - [The ramblings of a cybersecurity hobbyist](https://www.bootlesshacker.com/)
 - [ZenHack learning](https://zenhack.it/learning)
 - [CTFLearn](https://ctflearn.com/)
+- [CTF101](https://ctf101.org/)
+- [OverTheWire](https://overthewire.org/wargames/)
 ______________________________________________________________________________________________________________________________________________________________
  
 # Siti per allenarsi
