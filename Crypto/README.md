@@ -20,7 +20,7 @@ Cipher Identifier uses AI/Machine Learning technology to recognize over 25 commo
 - [Vigenere Cracker](https://www.guballa.de/vigenere-solver)<br>
 This online tool breaks Vigenère ciphers without knowing the key. Besides the classical variant Beaufort ciphers and Autokey ciphers are supported as well.<br>
 - [Substitution Cipher Cracker](https://planetcalc.com/8047/#:~:text=In%20cryptography%2C%20a%20substitution%20cipher%20is%20a%20method,letters%2C%20mixtures%20of%20the%20above%2C%20and%20so%20forth.)<br>
-- [Cipher Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier)<br>
+- [PlayFair Cipher](https://www.boxentriq.com/code-breaking/playfair-cipher)<br>
 - [XOR Cracker](https://wiremask.eu/tools/xor-cracker/)<br>
 This XOR deciphering tool will analyse the data to find n-grams and will be able to guess the key length.
 Then based on knowledge of most frequent char and using frequency analysis it will be able to guess the key used to encrypt the data. <br>
