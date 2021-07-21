@@ -104,7 +104,7 @@ Troverai [qui](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Sites) molti 
 
 ### YouTube Channel
 
-Troverai [qui](https://github.com/fralabi/v1770r14n1-CTF/tree/main/YouTube) molti canali con le speigazioni delle tecniche di hacking
+Troverai [qui](https://github.com/fralabi/v1770r14n1-CTF/tree/main/YouTube) molti canali con le spiegazioni delle tecniche di hacking
 
 ______________________________________________________________________________________________________________________________________________________________
 
