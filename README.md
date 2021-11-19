@@ -1,4 +1,4 @@
-# v1770r14n1 
+# arancinHaCK
  
 Il Manifesto Hacker (nell'originale inglese [The Hacker Manifesto](https://en.wikipedia.org/wiki/Hacker_Manifesto) o The Conscience of a Hacker) è un breve saggio scritto l'8 gennaio 1986 da Loyd Blankenship, un hacker che si faceva chiamare The Mentor. Fu scritto poco dopo l'arresto dell'autore, e pubblicato per la prima volta sulla Ezine Phrack.
 
