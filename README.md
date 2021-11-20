@@ -86,7 +86,7 @@ _______________________________________________________________________________
 - [CTF in Cybersecurity](https://www.meusec.com/ctf/capture-the-flags-in-cybersecurity/)
 
 ### Team
-Se vuoi entrare a far parte del nostro team inviaci la richiesta su [CTFtime](https://ctftime.org/team/140539).
+Se vuoi entrare a far parte del nostro team inviaci la richiesta su [CTFtime](https://ctftime.org/team/170133).
 
 ### Tools 
 Troverai qui molti tool utili per risolvere molte sfide di CTF, scegli la categoria e trova il tool che più ti interessa.
