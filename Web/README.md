@@ -1,5 +1,5 @@
 # Web
-## tools
+## Tools
 - [nikto](https://www.kali.org/tools/nikto/) <br>
 Nikto is a pluggable web server and CGI scanner written in Perl, using rfp’s LibWhisker to perform fast security or informational checks.
 - [dirb](https://www.kali.org/tools/dirb/) <br>
@@ -14,3 +14,6 @@ Gobuster is a tool used to brute-force URIs including directories and files as w
 CeWL (Custom Word List generator) is a ruby app which spiders a given URL, up to a specified depth, and returns a list of words which can then be used for password crackers such as John the Ripper. Optionally, CeWL can follow external links.
 - [wpscan](https://www.kali.org/tools/wpscan/) <br>
 WPScan scans remote WordPress installations to find security issues.
+- burpsuite
+
+## Resources
