@@ -40,6 +40,12 @@ $ fcrackzip [options] file
 
 $ man fcrackzip (for other details)
 ```
+- [hashcat](https://hashcat.net/hashcat/) <br>
+```
+$ hashcat [options] hashfile [mask|wordfiles|directories]
+
+$ man hashcat (for other details)
+```
 <br>
 
 ## LINKS
