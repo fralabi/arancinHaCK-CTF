@@ -33,6 +33,13 @@ $ john [options] password-files
 
 $ man john (for other details)
 ```
+- [fcrackzip](https://www.kali.org/tools/fcrackzip/) <br>
+Cracker for zip file <br>
+```
+$ fcrackzip [options] file
+
+$ man fcrackzip (for other details)
+```
 <br>
 
 ## LINKS
