@@ -1,5 +1,6 @@
 # Crypto 
 
+## Tools
 - [Cyberchef](https://gchq.github.io/CyberChef)<br>
 CyberChef encourages both technical and non-technical people to explore data formats, encryption and compression.<br>
 - [Cryptii](https://cryptii.com/)<br>
@@ -48,11 +49,9 @@ $ man hashcat (for other details)
 ```
 <br>
 
-## LINKS
+## Resources
 
 - [How to solve RSA Crypto challenges](https://www.amazingtricks.in/how-to-solve-rsa-crypto-challenges-in-ctfs/)
 - [Crypto for beginners](https://charcharbinks.com/post/ctf_crypto_for_beginners/)
 - [Cryptography overview](https://ctf101.org/cryptography/overview/)
-
-## VIDEO
 - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
