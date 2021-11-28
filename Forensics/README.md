@@ -1,7 +1,7 @@
 # Forensics
 - [Forensics Tools](https://github.com/mesquidar/ForensicsTools)<br>
 
-strings [Print the sequences of printable characters in files]
+- strings [Print the sequences of printable characters in files]
 ```
 $ strings [-afovV] [-min-len]
                [-n min-len] [--bytes=min-len]
@@ -15,7 +15,7 @@ $ strings [-afovV] [-min-len]
                
 $ man strings (for other details)
 ```
-exiftool [Read and write meta information in files]
+- exiftool [Read and write meta information in files]
 ```
    Reading
         $ exiftool [OPTIONS] [-TAG...] [--TAG...] FILE...
@@ -31,17 +31,18 @@ exiftool [Read and write meta information in files]
        
 $ man exiftool (for other details)
 ```
-binwalk [Tool for searching binary images for embedded files and executable code]
+- binwalk [Tool for searching binary images for embedded files and executable code]
 ```
 $ binwalk [OPTIONS] [FILE1] [FILE2] [FILE3] ...
 
 $ man binwalk (for other details)
 ```
-dd [Convert and copy a file]
+- dd [Convert and copy a file]
 ```
 $ dd [OPERAND]...
 $ dd OPTION
 
 $ man dd (for other details)
 ```
+- foremost []
 
