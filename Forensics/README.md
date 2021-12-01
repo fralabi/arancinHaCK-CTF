@@ -1,6 +1,4 @@
 # Forensics
-- [Forensics Tools](https://github.com/mesquidar/ForensicsTools)<br>
-
 - strings [Print the sequences of printable characters in files]
 ```
 $ strings [-afovV] [-min-len]
@@ -45,4 +43,7 @@ $ dd OPTION
 $ man dd (for other details)
 ```
 - foremost []
+
+## OTHER GITHUB REPOSITORIES
+- [Forensics Tools](https://github.com/mesquidar/ForensicsTools)<br>
 
