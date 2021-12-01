@@ -1,7 +1,7 @@
 # Cyberchallenge 2022
 
 ### Schedule
-<p align="center"> >
+<p align="center">
   <img height="500" src="https://cyberchallenge.it/assets/press-kit/CCIT_2022_Stories_D.jpg">
 </p>
 
