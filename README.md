@@ -100,7 +100,7 @@ ________________________________________________________________________________
 Scoprilo subito [qua](https://github.com/fralabi/arancinHaCK-CTF/tree/main/Cyberchallenge)
 
 ### Come entro nel team?
-Se vuoi entrare a far parte del nostro team inviaci la richiesta su [CTFtime](https://ctftime.org/team/170133).
+Se vuoi entrare a far parte del nostro team inviaci la richiesta su [CTFtime](https://ctftime.org/team/170133)
 oppure entra nel gruppo [Telegram](https://t.me/+lBiZDj-YWFBhMTE0)
 
 ### Quali tool posso utilizzare? 
