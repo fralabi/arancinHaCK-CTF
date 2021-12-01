@@ -17,7 +17,7 @@ File: archives/7/p7_0x03_Hacker's Manifesto_by_The Mentor.txt
                                             Volume One, Issue 7, Phile 3 of 10
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-                        The following was written shortly after my arrest...
+                                The following was written shortly after my arrest...
 
                                                \/\The Conscience of a Hacker/\/
 
