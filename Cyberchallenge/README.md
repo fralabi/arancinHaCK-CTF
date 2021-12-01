@@ -60,7 +60,7 @@ E' un test a risposta multipla in cui si troveranno quesiti di Logica, Matematic
 
 #### In cosa consiste il TEST DI AMMISSIONE?
 - Primo test prevede un test a risposta multipla in cui saranno preseenti esercizi con codice in Linguaggio C 
-- Secondo test in cui si testeranno le capacità di programmzione dei concorrenti in cui si dovrà scrivere un programma che rispetti i requisiti della richiesta in linguaggio C, C++, Java o Python
+- Secondo test in cui si testeranno le capacità di programmzione dei concorrenti in cui si dovrà scrivere un programma che rispetti i requisiti della richiesta in un linguaggio a scleta tra C, C++, Java o Python
 
 #### Dove allenarsi?
 Potete allenarvi al seguente link (https://cyberchallenge.it/training) in cui troverete i PRETEST e i TEST DI AMMISSIONE degli anni passati
