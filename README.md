@@ -97,7 +97,7 @@ ________________________________________________________________________________
 - [CTF in Cybersecurity](https://www.meusec.com/ctf/capture-the-flags-in-cybersecurity/)
 
 ### Cos'è Cyberchallenge?
-[Informazioni](https://github.com/fralabi/arancinHaCK-CTF/tree/main/Cyberchallenge)
+Scoprilo subito [qua](https://github.com/fralabi/arancinHaCK-CTF/tree/main/Cyberchallenge)
 
 ### Come entro nel team?
 Se vuoi entrare a far parte del nostro team inviaci la richiesta su [CTFtime](https://ctftime.org/team/170133).
