@@ -64,3 +64,5 @@ E' un test a risposta multipla in cui si troveranno quesiti di Logica, Matematic
 
 #### Dove allenarsi?
 Potete allenarvi al seguente link (https://cyberchallenge.it/training) in cui troverete i PRETEST e i TEST DI AMMISSIONE degli anni passati
+
+- [SOLUZIONI PRETEST 2020](https://github.com/fralabi/arancinHaCK-CTF/blob/main/Cyberchallenge/PRETEST%202020.pdf)
