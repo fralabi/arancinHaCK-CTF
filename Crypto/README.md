@@ -1,4 +1,4 @@
-# Crypto 
+# CRYPTOGRAPHY
 
 ## Tools
 - [Cyberchef](https://gchq.github.io/CyberChef)<br>
