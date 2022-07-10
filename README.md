@@ -3,7 +3,7 @@
 ## OUR LOGO
 
 <p align="center"> 
- <img src="https://github.com/fralabi/images/blob/main/ScimmiApparel(2).png" height="300" width="300"  style="align:center">
+ <img src="https://github.com/fralabi/images/blob/main/Copia%20di%20arancinHaCK.png" height="300" width="300"  style="align:center">
 </p>
  
 ## IL MANIFESTO HACKER
