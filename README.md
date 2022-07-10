@@ -106,7 +106,7 @@ oppure entra nel gruppo [Telegram](https://t.me/+lBiZDj-YWFBhMTE0)
 ### Quali tool posso utilizzare? 
 Troverai qui molti tool utili per risolvere molte sfide di CTF, scegli la categoria e trova il tool che più ti interessa.
 
-Categories | [Crypto](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Crypto) | [Reverse](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Reverse) | [Web](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Web) | [OSINT](https://github.com/fralabi/v1770r14n1-CTF/tree/main/OSINT) | [Forensics](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Forensics) | [Pwn](https://github.com/fralabi/arancinHaCK-CTF/tree/main/Pwn)<br>
+Categories | [Cryptography](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Crypto) | [Network Security](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Reverse) | [Web Security](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Web) | [OSINT](https://github.com/fralabi/v1770r14n1-CTF/tree/main/OSINT) | [Forensics](https://github.com/fralabi/v1770r14n1-CTF/tree/main/Forensics) | [Software Security](https://github.com/fralabi/arancinHaCK-CTF/tree/main/Pwn)<br>
 --- | --- | --- | --- | --- | --- | --- |
 
 
