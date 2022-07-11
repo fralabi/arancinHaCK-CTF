@@ -17,3 +17,11 @@ WPScan scans remote WordPress installations to find security issues.
 - burpsuite
 
 ## Resources
+- [HTTP Protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [HTTP Hacking](https://www.sipios.com/blog-tech/how-http-hacked-me)
+- [Cookies](https://www.trendmicro.com/vinfo/us/security/definition/cookies)
+- [Cookies Hacking](https://book.hacktricks.xyz/pentesting-web/hacking-with-cookies)
+- [Full Path Disclosure](https://owasp.org/www-community/attacks/Full_Path_Disclosure)
+- [Path Traversal](https://owasp.org/www-community/attacks/Path_Traversal)
+- [Server Side Request Forgery](https://portswigger.net/web-security/ssrf)
+- [Code Injection](https://crashtest-security.com/code-injection/)
