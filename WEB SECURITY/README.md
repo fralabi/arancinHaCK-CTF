@@ -1,4 +1,7 @@
-# WEB SECURITY
+<p align="center"> 
+ <img src="https://github.com/fralabi/images/blob/main/WEB.png" height="300" width="300"  style="align:center">
+</p>
+
 ## Tools
 - [nikto](https://www.kali.org/tools/nikto/) <br>
 Nikto is a pluggable web server and CGI scanner written in Perl, using rfp’s LibWhisker to perform fast security or informational checks.
