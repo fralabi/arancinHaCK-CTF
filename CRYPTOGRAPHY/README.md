@@ -1,4 +1,6 @@
-# Crypto 
+<p align="center"> 
+ <img src="https://github.com/fralabi/images/blob/main/CRYPTO.png" height="300" width="300"  style="align:center">
+</p>
 
 ## Tools
 - [Cyberchef](https://gchq.github.io/CyberChef)<br>
