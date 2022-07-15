@@ -1,4 +1,7 @@
-# Forensics
+<p align="center"> 
+ <img src="https://github.com/fralabi/images/blob/main/FORENSICS.png" height="300" width="300"  style="align:center">
+</p>
+
 - strings [Print the sequences of printable characters in files]
 ```
 $ strings [-afovV] [-min-len]
